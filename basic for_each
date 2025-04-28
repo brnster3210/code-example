@@ -1,3 +1,6 @@
+
+# The for_each approach is generally preferred when working with maps as it provides more stable resource addressing.
+
 # Variables for VNets and Subnets
 variable "vnets" {
   description = "Map of VNets to create with their subnets"
